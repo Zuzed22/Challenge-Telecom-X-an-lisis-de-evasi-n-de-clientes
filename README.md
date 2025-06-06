@@ -14,7 +14,7 @@ TelecomX-Churn/
 ├── notebooks/                 # Análisis exploratorio y modelado
 ├── scripts/                   # Funciones reutilizables (ETL, modelado)
 ├── models/                    # Modelos entrenados
-├── informe_churn_telecomx.md # Informe final en markdown
+├── TelecomX_LATAM.ipynb       # Informe final
 └── README.md                  # Este archivo
 ```
 ## ⚙️ Instalación y Requisitos
